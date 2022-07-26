@@ -1,0 +1,24 @@
+* What physics/astro courses have you taken?
+  -ASTR 2500
+  -ASTR	4060
+  -ASTR	4070
+  -PHYS 1060
+  -PHYS	2215
+  -PHYS	2225
+  -PHYS	2235
+  -PHYS	3210
+  -PHYS 3220
+  -PHYS	3740
+  -PHYS	3760
+  -PHYS	4410
+  -PHYS	4420
+  -PHYS	5450
+
+* have you done or are you doing research?
+  -Yeah. I am currently appart of the cosmic research group here at the U.
+
+* is there a specifice goal you have for this course?
+  -I want to expand my knowledge of programming for my future career
+
+* is there a kind of science/tech problem you'd like to be able to solve using tools you learn here?
+  -I don't really know. I hope this class can enlighten me on problems I could solve using these tools.
