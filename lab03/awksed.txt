@@ -1,0 +1,5 @@
+awk '{print $1,$2,sin($1)}' ~p6720/examples/cosx.dat > cosxsinx.dat
+
+awk '{print sin($1)*sin($1)}' ~p6720/examples/cosx.dat | awk '{sum +=$1} END {print sum*0.024736950}'
+
+sed 's/^\s*//g' ~p6720/examples/cosx.dat | sed 's/  /,/'
